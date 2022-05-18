@@ -1,4 +1,3 @@
-# Based on https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md
 import re
 import cv2
 from tflite_runtime.interpreter import Interpreter
