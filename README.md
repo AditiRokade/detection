@@ -1,7 +1,7 @@
 # Tensorflow Object Detection Walkthrough with Raspberry Pi
 
 <b>Step 1.</b> Clone the current repository onto your Raspberry Pi or copy it from a machine using RDP.
-<pre> git clone </pre>
+<pre> git clone https://github.com/AditiRokade/detection </pre>
 <br/><br/>
 <b>Step 2.</b>Install the required dependencies onto your Raspberry Pi
 <pre>
